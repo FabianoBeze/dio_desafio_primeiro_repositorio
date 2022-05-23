@@ -1,2 +1,2 @@
-# dio_desafio_primeiro_repositorio
+# dio_desafio_primeiro_repositório
 Desafio de projeto 
